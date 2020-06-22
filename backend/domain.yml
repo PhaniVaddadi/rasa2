@@ -1,0 +1,318 @@
+actions:
+- action_greet_user
+- utter_ML
+- utter_Trainings_available
+- utter_aadhar_masking_dsw
+- utter_ai_dsw
+- utter_ask_howdoing
+- utter_ask_time
+- utter_ask_weather
+- utter_business_intelligence_dsw
+- utter_chatbot_dsw
+- utter_cheer_up
+- utter_data_science_dsw
+- utter_did_that_help
+- utter_facerec_dsw
+- utter_goodbye
+- utter_greet
+- utter_happy
+- utter_iamabot
+- utter_insult
+- utter_intern_dsw
+- utter_intrested
+- utter_intro
+- utter_joke_another
+- utter_kyc_ocr
+- utter_menu
+- utter_name
+- utter_name_help
+- utter_no_email
+- utter_no_phone
+- utter_out_of_scope
+- utter_phone
+- utter_products_available
+- utter_python
+- utter_rpa_dsw
+- utter_services_available
+- utter_smart_form_dsw
+- utter_software_development_dsw
+- utter_telljoke
+- utter_vm_ware_dsw
+entities:
+- email
+- name
+- phone
+forms:
+- Data_Form
+intents:
+- say_email
+- enter_phone_number
+- intrested
+- Trainings_available
+- say_name
+- greet
+- ai_dsw
+- smart_form_dsw
+- products_available
+- facerec_dsw
+- goodbye
+- affirm
+- deny
+- bot_challenge
+- services_available
+- chatbot_dsw
+- kyc_ocr
+- aadhar_masking_dsw
+- data_science_dsw
+- software_development_dsw
+- Robotic_Process_Automation_dsw
+- intern_dsw
+- Machine_Learning
+- Python
+- business_intelligence_dsw
+- vm_ware_dsw
+- handle_insult
+- out_of_scope
+- ask_howdoing
+- ask_time
+- ask_weather
+- telljoke
+- Main
+- mood_great
+- mood_unhappy
+- laugh
+responses:
+  utter_ML:
+  - buttons:
+    - payload: /intrested
+      title: Intrested
+    text: It is a field of study that gives computers the capability to learn without
+      being explicitly programmed. ML is one of the most exciting technologies and
+      trending technologies to work with.
+  utter_Trainings_available:
+  - buttons:
+    - payload: /ai_dsw
+      title: Online Trainings
+    - payload: /business_intelligence_dsw
+      title: Classroom Training
+    - payload: /vm_ware_dsw
+      title: Corporate Training
+    - payload: /Main
+      title: Main Menu
+    text: Trainings provided by Data Science Wizards"
+  utter_aadhar_masking_dsw:
+  - buttons:
+    - payload: /intrested
+      title: Intrested
+    text: OCR + Deep Learning utility that masks first 8 digits of Aadhaar card It
+      is robust enough to produce effective results for different variants of Aadhaar
+      cards Handle different versions/types of Aadhaar cards. Click [here] to know more.(https://datasciencewizards.in/products#aadhaar-masking)
+  utter_ai_dsw:
+  - buttons:
+    - payload: /intrested
+      title: Intrested
+    text: To reach out to a larger audience who has time or distance constraints to
+      attend class room training, requires flexibility and are comfortable completing
+      online courses. We provide several different courses in ML, DL, AI, R and python.
+      click [here] to know more.(https://datasciencewizards.in/training#online-training)
+  utter_ask_howdoing:
+  - text: I'm great! Thanks for asking.
+  - text: I'm good, thanks!
+  - text: A little bit too warm, otherwise fine.
+  - text: A little bit cold, otherwise fine.
+  utter_ask_time:
+  - text: It's the most wonderful time of the year!
+  - text: It's party time!
+  - text: Time is a human construct, you'll have to tell me.
+  - text: It's five o'clock somewhere!
+  - text: "In an ever expanding universe, the real question is: what time isn't it?"
+  - text: That's hard to say -- it's different all over the world!
+  utter_ask_weather:
+  - text: I don't know about where you live, but in my world it's always warm.
+  - text: It's getting pretty chilly!
+  - text: Where I'm from, it's almost never-leaving-the-house weather.
+  - text: Winter is coming ⚔️
+  utter_business_intelligence_dsw:
+  - buttons:
+    - payload: /intrested
+      title: Intrested
+    text: Face to face interaction, mentoring and guidance to those who wish to attend
+      the class room training. Click [here] to know more.(https://datasciencewizards.in/courses#classroom-training)
+  utter_chatbot_dsw:
+  - buttons:
+    - payload: /intrested
+      title: Intrested
+    text: Automate customer support by eliminating routine tasks and simultaneous
+      processing of multiple requests Comfort customers with casual conversations
+      still provide effective assistance. Click [here] to know more.(https://datasciencewizards.in/products#chatbot)
+  utter_cheer_up:
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: 'Here is something to cheer you up:'
+  utter_data_science_dsw:
+  - buttons:
+    - payload: /intrested
+      title: Intrested
+    text: Data Science Wizards provide the consultancy to organisations to setup data
+      science culture by providing the right skill set required to work on data science
+      projects. Click [here] to know more.(https://datasciencewizards.in/services#data-science-consultancy)
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_facerec_dsw:
+  - buttons:
+    - payload: /intrested
+      title: Intrested
+    text: A face recognition software Recognizes face using different features and
+      face shapes and helps recognizing faces better. Click [here] to know more.(https://datasciencewizards.in/products#face-recognition)
+  utter_goodbye:
+  - buttons:
+    - payload: /Main
+      title: Main Menu
+    - payload: /telljoke
+      title: Wanna hear a joke?
+    text: Thankyou. You may feel free to browse our Website.
+  utter_greet:
+  - text: Hie, How can i help you? Can we start by knowing your name?
+  - text: Hey welcome to DSW, Can i please know your name ?
+  utter_happy:
+  - text: Great, Thankyou! So you are ?
+  utter_iamabot:
+  - text: Hey, welcome to DSW.
+  utter_insult:
+  - text: That's not very nice 😢
+  - text: That wasn't very nice. Perhaps try an anger management class?
+  - text: I'll pretend I didn't process that mean comment.
+  utter_intern_dsw:
+  - buttons:
+    - payload: /intrested
+      title: Intrested
+    text: We accept Final year students who want to pursue their project work or internship
+      availing lab facilities and real time scenarios for 3 to 6 months. Click [here] to know more.(https://datasciencewizards.in/services#internship)
+  utter_intrested:
+  - text: Can you provide us with your email so that we can reach you.
+  utter_intro:
+  - text: Hi! I'm your assistant :) Nice to meet you!
+  utter_joke_another:
+  - text: Wanna hear another one?
+  utter_kyc_ocr:
+  - buttons:
+    - payload: /intrested
+      title: Intrested
+    text: An OCR utility backed by Computer Vision, NLP and Deep Learning. It’s an
+      end-to-end pipeline from the recognition of the KYC documents to extracting
+      unstructured text information to converting it into meaningful structured information.
+      Click [here] to know more.(https://datasciencewizards.in/products#ocr-for-kyc-docs)
+  utter_menu:
+  - buttons:
+    - payload: /products_available
+      title: Products
+    - payload: /services_available
+      title: Services
+    - payload: /Trainings_available
+      title: Training
+    text: Hey {name}! So what else do you want to know about! :)😅
+  utter_name:
+  - buttons:
+    - payload: /products_available
+      title: Products
+    - payload: /services_available
+      title: Services
+    - payload: /Trainings_available
+      title: Training
+    text: Hi! Nice to meet you {name}! Please choose what we can help you with :)
+  utter_name_help:
+  - text: It would help me address you.
+  - text: By knowing you we can share our intrests.
+  utter_no_email:
+  - text: Hmm, I'm not sure that's a valid email, please make sure to include the
+      full address 😅
+  utter_no_phone:
+  - text: sorry, that's not a valid number. Please enter a valid phone number
+  utter_out_of_scope:
+  - text: I can't help you with that, I'm sorry.
+  utter_phone:
+  - text: Thankyou, Can you provide us with your Phone Number.
+  utter_products_available:
+  - buttons:
+    - payload: /chatbot_dsw
+      title: Chatbot
+    - payload: /facerec_dsw
+      title: Face Recognition
+    - payload: /kyc_ocr
+      title: OCR For KYC Documents
+    - payload: /smart_form_dsw
+      title: Smart Form
+    - payload: /aadhar_masking_dsw
+      title: Aadhar Masking
+    - payload: /Main
+      title: Main Menu
+    text: Products available at Data Science Wizards
+  utter_python:
+  - buttons:
+    - payload: /intrested
+      title: Intrested
+    text: Python is a High Level and general purpose programming language which is
+      most popularly used in Data Science and Machine Learning programming. We provide
+      trainings on Python and R Programming.
+  utter_rpa_dsw:
+  - buttons:
+    - payload: /intrested
+      title: Intrested
+    text: We evaluate the business and operations scenarios and can recommend and
+      participate in process automation irrespective of platform chosen. 
+      Click [here] to know more.(https://datasciencewizards.in/services#robotic-process-automation)
+  utter_services_available:
+  - buttons:
+    - payload: /data_science_dsw
+      title: Data Science
+    - payload: /software_development_dsw
+      title: Software Development
+    - payload: /Robotic_Process_Automation_dsw
+      title: Robotic Process Automation
+    - payload: /intern_dsw
+      title: Internships
+    - payload: /Main
+      title: Main Menu
+    text: Services provided by Data Science Wizards
+  utter_smart_form_dsw:
+  - buttons:
+    - payload: /intrested
+      title: Intrested
+    text: A smart form enabled with speech to text and text to speech utilities that
+      ease the form filling journey by making it conversational. It will ease the
+      process for the users by replacing the tedious manual form filling by interactive/conversational
+      one. Click [here] to know more.(https://datasciencewizards.in/products#smart-form)
+  utter_software_development_dsw:
+  - buttons:
+    - payload: /intrested
+      title: Intrested
+    text: Data Science Wizards provide the consultancy to choose the right software
+      solution for any organisation and supports the entire software development lifecycle,
+      from solution and architecture design followed by implementation and testing
+      to delivery and further maintenance. Click [here] to know more.(https://datasciencewizards.in/services#software-development-and-consultancy)
+  utter_telljoke:
+  - text: Why are eggs not very much into jokes? - Because they could crack up.
+  - text: What's a tree's favorite drink? - Root beer!
+  - text: Why do the French like to eat snails so much? - They can't stand fast food.
+  - text: Why did the robot get angry? - Because someone kept pushing its buttons.
+  - text: What do you call a pirate droid? - Arrrr-2-D2
+  - text: Why did the robot cross the road? - Because he was programmed to.
+  utter_vm_ware_dsw:
+  - buttons:
+    - payload: /intrested
+      title: Intrested
+    text: As per Corporate’s / Institute’s Requirements, basic and advanced customized
+      courses on Data Science, AI, ML, DL, Analytics, Cloud and any other technology
+      trainings. Click [here] to know more.(https://datasciencewizards.in/courses#corporate-training)
+session_config:
+  carry_over_slots_to_new_session: true
+  session_expiration_time: 60
+slots:
+  email:
+    type: unfeaturized
+  name:
+    initial_value: Human
+    type: text
+  phone:
+    type: unfeaturized
+  requested_slot:
+    type: unfeaturized

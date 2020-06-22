@@ -1,0 +1,1175 @@
+## intent:greet
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- Good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- hallo
+- heeey
+- hi hi
+- hey
+- hey hey
+- hello there
+- hi
+- hello
+- yo
+- hola
+- hi?
+- hey bot!
+- hello friend
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+- thankyou
+
+## intent:affirm
+- correct
+- yes
+- okay
+- sure
+- uh yes
+- let's do it
+- yeah
+- um yes
+- yes knocking
+- that's correct
+- yes yes
+- right
+- yea
+- yes right
+- yes and i dont care
+- right on
+- i love that
+
+## intent:deny
+- no
+- noo
+- no man
+- noo man
+- why
+- never
+- nope
+- Nope
+- Why
+- No
+- I don't think so
+- don't like that
+- no way
+- not really
+- no thanks
+- no thank you
+- uh no
+- breath no
+- do you have something else
+- no this does not work for me
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+
+## intent:products_available
+- Products
+- types of products
+- what are the products
+- what are the products available in dsw
+- what are the type of products we can deploy in dsw
+- what are the several products available in dsw
+
+## intent:services_available
+- Services
+- what are the types of services
+- what are the types of services we can avail?
+- what are the services available in dsw
+- what are the type of services we can get?
+- what are the several services provided by dsw?
+
+## intent:Trainings_available
+- Trainings
+- what are the trainings provides
+- what are the types of training available
+- what are the training courses availavle
+- what are the things we can learn from dsw
+
+## intent:chatbot_dsw
+- chatbot
+- chat bot
+- tell me about the chatbot
+- tell me about the working of chatbot
+- tell me how the chatbot works
+- what are the services provided by chatbot
+- tell me about chatbot and its uses?
+
+## intent:facerec_dsw
+- face recognition
+- face
+- recognition
+- facerecognigition
+- tell me about the face recognition
+- tell me about the facerecognition use cases in dsw
+- tell me about the working of facerecognition
+- what are the services provided in face recognition
+- tell me about face recognition software
+
+## intent:kyc_ocr
+- what is kyc ocr
+- ocr
+- kyc ocr
+- kyc_ocr
+- tell me about the  use cases of Kyc
+- tell me about the working of know your customer
+- tell me about the know your customer
+- what are the services provided by kyc
+- tell me about kyc use cases
+- are you talking about kyc in extracting information from documents
+
+## intent:smart_form_dsw
+- smart form
+- form
+- what is smart form
+- what are the uses for smart form
+- tell me about the  use cases of smartform
+- tell me about the working of Smart Form
+- tell me about the Smart Form
+- what are the services provided by Smart Form
+- tell me about Smart Form
+- are you talking about Smart Form in speech to text
+
+## intent:aadhar_masking_dsw
+- aadhar
+- aadhar masking
+- tell me about the  use cases of adharcard masking
+- tell me about the working of adharcard masking
+- tell me about the adharcard masking
+- what are the services provided by adharcard masking
+- tell me about adharcard masking
+- are you talking about adhar card masking which masks the digits
+
+## intent:data_science_dsw
+- data science services
+- what is data science
+- tell me about the  data science services provided by your company
+- tell me about the several data science services provided by your comapny
+- tell me about the  data science services provided by data science wizards
+- what are the services provided by data science wizards
+- tell me about data science services provided by data science wizards
+- data science services provided by your company
+
+## intent:software_development_dsw
+- software
+- software development
+- tell me about the  software development services provided by your company
+- tell me about the several software development services provided by your comapny
+- tell me about the  several software development services provided by data science wizards
+- what are the software development services provided by data science wizards
+- tell me about software development services provided by data science wizards
+- software development provided by your company
+
+## intent:Robotic_Process_Automation_dsw
+- What is rpa
+- what is robotic process automation
+- robotic process
+- tell me about the rpa services
+- tell me about the rpa services provided by your comapny
+- tell me about the several rpa services provided by data science wizards
+- what is robotic process automation services provided by data science wizards
+- what is robotic process automation services provided by you
+- what is robotic process automation services provided
+- tell me about robotic process automation
+- rpa
+
+## intent:intern_dsw
+- intern
+- Internships
+- tell me about the internships
+- tell me about the internship services provided by your comapny
+- tell me about the internships services provided by data science wizards
+- what are the internships provided by data science wizards
+- tell me about intern services provided by data science wizards
+- internships provided by your company
+
+## intent:ai_dsw
+- training
+- trainings
+- Artificial intelligence
+- data science
+- online training
+- what are the online trainings provided by data science wizards
+- what are the types of online trainings provided by your company
+- what are the trainings offered by your company
+- what are the trainings provided by your company
+
+## intent:Machine_Learning
+- Machine Learning
+- ml
+- ML
+- What is Machine learning
+- what can we do with machine learning
+- What is ml
+- What is ML
+- is ML useful
+
+## intent:Python
+- python
+- Python programming
+- Python language
+- what is Python
+- is python useful
+
+## intent:business_intelligence_dsw
+- DL
+- classroom training
+- what are the classroom courses provided by data science wizards
+- what are the types of courses in classroom training provided
+- what are the classroom trainings offered by your company
+
+## intent:vm_ware_dsw
+- corporate training
+- tell me about corporate training
+- do you train corporate people
+- what are the courses provided in corporate training
+- what are the courses for corporate people
+- what trainings are for multinational companies
+
+## intent:intrested
+- intrested
+- I am intrested
+- i am intrested towards your trainings and courses
+- i am intrested towards your courses and trainings
+- i am intrested towards trainings
+- i am intrested towards you
+
+## intent:say_name
+- I'm [phani](name)
+- i am [phani](name)
+- my name is [shivam](name)
+- my name is [phani](name)
+- hi i am [vamsy](name)
+- call me [lakshmi](name)
+- i'm [yash](name)
+- hi i'm [Nick](name)
+- hello call me [himanshu](name)
+- i am [sunny](name)
+- hey call me [dinesh](name)
+- yo i am [naveen](name)
+- i am [sandhya](name)
+- you can address me as mr [pavan](name)
+- i am [Arjun](name)
+- my name is [Azad](name)
+- i am [Bhaskar](name)
+- my name is [shyann](name)
+- im [Bhavesh](name)
+- you can call me [Phani](name)
+- im [Bipin](name)
+- call me [michelle obama](name)
+- im [elizabeth](name)
+- I'm [Chirag](name)
+- [Chiranjeev](name)
+- my name is [chris](name)
+- [Daanish](name)
+- my name is [Daljeet](name)
+- [Debashish](name)
+- my name is [Michael](name)
+- im [Dhruv](name)
+- my name is [Dipankar](name)
+- [Emir](name)
+- im [Farhan](name)
+- [Gaurav](name)
+- [Gautam](name)
+- my name is [Girish](name)
+- im [Gurdeep](name)
+- [Harbhajan](name)
+- my name is [Alexis](name)
+- [Imraan](name)
+- yes i am [Phani](name)
+- yes i'm [laxmi](name)
+- yes im [rishabh](name)
+- yeah, i'm [aggarwal](name)
+- yeah, i am [krishna](name)
+- yeah im [varun](name)
+- yeah i'm [tiwari](name)
+- yeah it is [vaddadi](name)
+- yeah it's [Ramila](name)
+- yeah its [Suksma](name)
+- yeah it s [Choudhary](name)
+- [Abhijeet](name)
+- [Aditya](name)
+- yeah its [Aniruddh](name)
+- [Arjun](name)
+- yeah its [Indranuj](name)
+- [Jayant](name)
+- [Jayesh](name)
+- hey call me [Jayesh](name)
+- my name is [Junaid](name)
+- hey call me [Jyotiraditya](name)
+- [Kabir](name)
+- my name is [Kartik](name)
+- [Karun](name)
+- hey call me [Khalid](name)
+- [Kshitij](name)
+- yeah its [Lohith](name)
+- [Madhav](name)
+- i am [Mohammed](name)
+- [Mridul](name)
+- hey call me [Navjot](name)
+- i am [Nikhil](name)
+- [Nimit](name)
+- yeah its [Nishith](name)
+- i am [Ojas](name)
+- my name is [Om](name)
+- [Onkar](name)
+- i am [Paramjit](name)
+- [Paritosh](name)
+- [Parvez](name)
+- hey call me [Pavan](name)
+- [Pranav](name)
+- hey call me [Purab](name)
+- im [Ramandeep](name)
+- i am [Rehaan](name)
+- [Rohan](name)
+- I'm [Sahil](name)
+- [Salman](name)
+- im [Samarth](name)
+- [Samir](name)
+- [Sanchit](name)
+- im [Sanjay](name)
+- [Sarabjit](name)
+- [Shahzad](name)
+- [Shantanu](name)
+- yeah its i am [Shishir](name)
+- hey call me [Shray](name)
+- [Siddharth](name)
+- [Sparsh](name)
+- hey call me [Sumer](name)
+- [Surjan](name)
+- hey call me [Swapan](name)
+- I'm [Tarun](name)
+- yeah its [Tejas](name)
+- hey call me [Tushar](name)
+- my name is [Udit](name)
+- [Umang](name)
+- hey call me [Umar](name)
+- yeah its [Varun](name)
+- hey call me [Veer](name)
+- [Vidur](name)
+- [Vinay](name)
+- hey call me [Yash](name)
+- [Zeeshan](name)
+- my name is [Zubin](name)
+- hey call me [Aaina](name)
+- [Aaliyah](name)
+- [alia](name)
+- hey call me [Aasha](name)
+- [Aasiya](name)
+- [Aditi](name)
+- hey call me [Aishwarya](name)
+- I'm [Amena](name)
+- [Anjali](name)
+- I'm [Antara](name)
+- [Aparna](name)
+- I'm [Arshpreet](name)
+- [Aruna](name)
+- [Arunima](name)
+- I'm [Arzoo](name)
+- [Ayesha](name)
+- my name is [Bahaar](name)
+- [Bhagyashree](name)
+- hey call me [Bhavna](name)
+- [Bhoomi](name)
+- hey call me [Bipasha](name)
+- [Chaaya](name)
+- [Chandrika](name)
+- my name is [Chhavi](name)
+- [Chitragandha](name)
+- my name is [Deepika](name)
+- hey call me [Devika](name)
+- [Diya](name)
+- [Ekta](name)
+- [Falguni](name)
+- hey call me [Farah](name)
+- yeah its [Fatima](name)
+- [Garima](name)
+- [Gauhar](name)
+- hey call me [Gayatri](name)
+- [Geetha](name)
+- yeah its [Gurleen](name)
+- [Harini](name)
+- hey call me [Harpreet](name)
+- [Indrani](name)
+- [Ira](name)
+- hi i am [Jasleen](name)
+- [Jayanti](name)
+- [Jyothsna](name)
+- [Kalyani](name)
+- hi i am [Kanika](name)
+- [Kavya](name)
+- [Laila](name)
+- [Lathika](name)
+- hi i am [Lavanya](name)
+- [Leela](name)
+- hey call me [Lopamudra](name)
+- my name is [Mahrukh](name)
+- hi i am [Malavika](name)
+- [Maya](name)
+- my name is [Meera](name)
+- [Meher](name)
+- [Naaz](name)
+- hi i am [Nagma](name)
+- I'm [Nalini](name)
+- my name is [Nargis](name)
+- hi i am [Nivedita](name)
+- [Noor](name)
+- [Parinaaz](name)
+- my name is [Parizaad](name)
+- [Piya](name)
+- hi i am [Pooja](name)
+- [Prabhjot](name)
+- [Preet](name)
+- hi i am [Rangana](name)
+- [Rasika](name)
+- [Revati](name)
+- hi i am [Rihana](name)
+- [Ruchika](name)
+- [Sabina](name)
+- hey call me [Saira](name)
+- [Sanjana](name)
+- [Sarah](name)
+- [Shaheen](name)
+- hey call me [Shahnaz](name)
+- [Shereen](name)
+- [Shifa](name)
+- [Shivani](name)
+- hey call me [Shreya](name)
+- [Shridevi](name)
+- hey call me [Shweta](name)
+- my name is [Simran](name)
+- hey call me [Surabhi](name)
+- hey call me [sudha](name)
+- [Taahira](name)
+- I'm [Tanvi](name)
+- [Tara](name)
+- [Tavleen](name)
+- [Uma](name)
+- [Upasana](name)
+- hi i am [Urvashi](name)
+- [Vaishnavi](name)
+- hi i am [Yamini](name)
+- yeah its [Yoshita](name)
+- [Zahra](name)
+- hi i am [Zainab](name)
+- [Zoya](name)
+- [Anirab](name)
+- hi i am [Arnit](name)
+- I'm [Abhineeth](name)
+- hi i am [Aadesh](name)
+- [Aadarsh](name)
+- [Abhay](name)
+- hi i am [Amrusha](name)
+- [Ananya](name)
+- hi i am [Anasuya](name)
+- [Ankita](name)
+- hi i am [Archa](name)
+- my name is [Aahna](name)
+- hi i am [Aakriti](name)
+- [Anvita](name)
+- [Avika](name)
+- hi i am [Chaitra](name)
+- my name is [Chaarumati](name)
+- [Pooja](name)
+- hi i am [Deepa](name)
+- [Dipak](name)
+- I'm [Durgavathi](name)
+- [Dayakar](name)
+- [Neha](name)
+- hey call me [Mehta](name)
+- I'm [Karima](name)
+- I'm [Hasika](name)
+- [Sai](name)
+- I'm [Samik](name)
+- i am [pritesh](name)
+- i am [vaddadi](name)
+- [phani](name)
+- i'm [monish](name)
+- yeah i am [akshit](name)
+- my name is [vijay](name)
+- i m [vamsy](name)
+- i am [lakshmi](name)
+- i am [parinay](name)
+- [Austin](name)
+- [linus](name)
+- [David](name)
+
+## intent:say_email
+- [phanivaddadi13@gmail.com](email)
+- [phani.vaddadi@gmail.com](email)
+- [phanivaddadi13@outlook.com](email)
+- [phanivaddadi@outlook.com](email)
+- It is [Drew@Mccarthy.com](email)
+- My email is [Richard@Simmons.com](email)
+- [Carolyn.Eisenhauer@Watkins.com](email)
+- [Ebony@gmail.com](email)
+- [J_Herrera@gmail.com](email)
+- [K_Claytor@yahoo.com](email)
+- [K_Rainey@Yochum.net](email)
+- [Kristin@yahoo.com](email)
+- [Robert.Sparks@gmail.com](email)
+- [Willie@gmail.com](email)
+- [a@b.com](email)
+- [abhbose3k@gmail.com](email)
+- can you try [E_Conder@gmail.com] instead?(email)
+- email = [Patti.Salazar@gmail.com](email)
+- it's [R_Iuliucci@yahoo.com](email)
+- it's [Shannon.Adelman@Hurt.com](email)
+- mail: [Geneva.Favors@yahoo.com](email)
+- maybe then instead [James@Anast.com](email)
+- my business mail is [s_Dibenedetto@Simpson.net](email)
+- my email is [Carole@Hart.com](email)
+- my email is [Elinor_Stock@Higgenbotham.com](email)
+- my email is [K_Spivey@yahoo.com](email)
+- my email is [Kelly@Coulter.net](email)
+- my email is [M_Jones@Luna.com](email)
+- my email is [Mia_Gainey@gmail.com](email)
+- my email is [S_Calderon@Cofield.com](email)
+- my email is [Virginia@Brown.com](email)
+- my emayl is [V_Comley@Nelson.com](email)
+- ok it's [Hee@yahoo.com](email)
+- ok its [P_Simpkins@Suehs.com]](email)
+- [Edward@Paul.com](email)
+- my email is [R_Grove@gmail.com](email)
+- [Joseph_Pyles@yahoo.com](email)
+- my email is [Mabel@Brown.com](email)
+- [M_Moore@yahoo.com](email)
+- email: [Marcus.Miller@yahoo.com](email)
+- [Robert@yahoo.com](email)
+- [gregory_lilley@yahoo.com](email)
+- my email is [Carolyn_Caskey@yahoo.com](email)
+- [Bruce_harryman@Olsen.com](email)
+- [Denise@gmail.com](email)
+- email [Evan@Palmer.net](email)
+- [something@yahoo.com](email)
+- [vaddadi@gmail.com](email)
+- [lucky@gmail.com](email)
+- [phanivaddadi@yahoo.com](email)
+- [phani@gmail.com](email)
+- my email is [phani@abc.com](email)
+- [phani.com](email)
+- [akshit@gmail.com](email)
+- [vijay@yahoo.com](email)
+- [phani@abc.com](email)
+- [phani@abc.com](email)
+- [phani@gmail.cmo](email)
+- [vamsy@yahoo.com](email)
+- [lakshmi44@gmail.com](email)
+- [parinay@yahoo.com](email)
+
+## intent:handle_insult
+- FUCK
+- Fuck
+- Fuck Off
+- Fuck off
+- Fuck u
+- Fuck you
+- God you're a moron
+- I can't believe how dumb you are
+- I hate you
+- Loser
+- Stupid
+- You are a fool.
+- You are an idiot.
+- You are dumb.
+- You are unintelligent.
+- You have no brains.
+- You have no intelligence.
+- You have no sense.
+- You know nothing.
+- You lack intelligence.
+- You lack understanding.
+- You're a dolt.
+- You're a dunce.
+- You're an idiot.
+- You're foolish.
+- Your intelligence is laughable.
+- Your mindset is naive.
+- a baby knows more than you
+- are u dump?
+- are you brain dead?
+- asshole
+- bitch
+- bloody dunce
+- but you are idiot
+- deal with my ass, you bitch
+- f*ck
+- fuck
+- fuck off
+- fuck rasa
+- fuck u
+- fuck you
+- fuck you machine learning bot
+- fuck you man
+- fuck you!
+- fucking stupid
+- fucking work
+- get lost
+- go away
+- go fuck yourself
+- go to hell
+- how can you be such an idiot?
+- i hate you
+- i hate your dumb face
+- i think that you're a bullshit
+- idiot
+- insult you
+- ok fuck you
+- ok shut up
+
+## intent:out_of_scope
+- I am asking you an out of scope question
+- 4 + 2 = ?
+- After registration I see that I have an available balance of 0.00000000. What does this balance represent?
+- Are you ready?
+- But you're an english site :(
+- Can I ask you questions first?
+- Can I die
+- Can I get a hamburger?
+- Can YouTube talk?
+- Can you call me back ?
+- Can you give me your datacenter's password
+- Will we build a snowman today?
+- how is the weather
+- how is the weather ?
+- how is the weather?
+- how's the weather ?
+- Can you give me your datacenter's password?
+- Can you make sandwiches?
+- Can you please send me an uber
+- Do I have to accept?
+- Do you know [Kevin Pelton](name)
+- Have we met before?
+- HomeBase is advertised as a community. Is there a way to interact with other members of the community?
+- How long does it take to set up a Rasa bot?
+- I already told you! I'm a shitmuncher
+- I am User
+- I am an opioid addic
+- I am an opioid addict
+- I am hungry
+- I am trying to build one, and did some research before, but I have not do hand-on work yet
+- I can barely see this white text on light gray background ...
+- I changed my mind
+- I have installed it
+- I ned a GP in 94301
+- I need a GP in 94301
+- I need a girl friend!
+- I need to eat cake
+- I wan to buy a plane
+- I wanna marry you
+- I want a new laptop
+- I want book a hotel
+- I want french cuisine
+- I want pizza
+- I want to die
+- I want to order pizza
+- I want to use pipe
+- I will check
+- I'm a shitmuncher
+- Is Rasa really smart?
+- Is this Goal-Oriented Chatbot?
+- Is today saturday?
+- Mail me the guide
+- Make me a sandwich
+- NLW
+- Nice name
+- Now?
+- Pizza bot
+- Recharge
+- SEL ME SOMETHING
+- The Try it out is not working
+- The weather is good
+- Today
+- Try it out broken
+- What day is it today?
+- What did you eat yesterday?
+- What do you prefer?
+- What is todays date
+- What is your hobbies?
+- What makes you better than a human?
+- What's 1 + 1?
+- What's do YouTube do
+- What's your backend system?
+- Where am I right now?
+- Where am I?
+- Who ?
+- Who are your customers
+- Why don’t you answer?
+- Why is my TRUST score set to 50 after I completed the registration process?
+- Won't you ask me how I am?
+- You'r blue.
+- [Kristin](name), I want to marry you
+- a tamed mouse will arrive at your doorstep in the next couple of days
+- aRE YOU SINGLE
+- again?
+- alexa, order 5 tons of natrium chloride
+- and make chicken noises into the phone
+- are the newsletter worth the subscription?
+- are u facebook
+- are u, facebook?
+- are you single?
+- are you dev?
+- are you human ?
+- are you russian?
+- are you sick
+- are you vegan
+- better than you
+- book a ticket
+- but I just told you that :(
+- but if rasa is open source why do you have a sales team
+- buy one please
+- buy groceries
+- call me father
+- can we keep chatting?
+- can you book dinner
+- can you cheer me up
+- can you cook dinner
+- can you give me a cup of coffee
+- can you help me with the docs?
+- can you help me with your docs
+- can you help me with your docs?
+- can you learn from our conversation?
+- can you speak about politic ?
+- can you understand ?
+- cannot see
+- chgfhgh
+- chinese ok?
+- colder
+- common, just try
+- connect to alexa
+- cr
+- custom service
+- did i break you
+- dinner
+- do you believe in god?
+- do you have a phone number?
+- do you have your photo?
+- do you know me
+- do you know ras
+- do you liek cheese?
+- do you like football
+- do you like movies
+- do you sell vacuum robots?
+- do you want to marry me?
+- docs
+- doctor
+- everything
+- example of a chatbot
+- genocide
+- get me a club mate
+- github link?
+- give me a girl friend
+- give me food
+- go back
+- google?
+- great, I'd like to buy a house
+- hang on let me find it
+- have you ever seen [Keith Reilly](name)?
+- help with [Alma Abrams](name)
+- help with my life
+- hey little mama let em whisper in your ear
+- hey, I contacted you a couple of days ago but didn't get any response, any news?
+- how
+- how about NYC
+- how are [Alicia Jackson](name)'s cats doing?
+- how are the kids
+- how can i get them?
+- how can i test this
+- how come you say ok ?
+- how come?
+- how do you learn
+- how good is Rasa
+- how it compares to alexa
+- how long have you been online?
+- how long will the next version will launch?
+- how many lines of codes
+- how much is 10 + 89 ?
+- how much is 10 + 89
+- how to get rasa studio
+- how to go to newyork ?
+- i am hungry
+- i am hungry, what should i do?
+- i am not a developer but need this for business
+- i am qq
+- i can't deal with _your_ request
+- i do not care how are you
+- i hope you will be better
+- i immediately need help with implementing the coolest bot you can imagine
+- i m looking for job
+- i told you already
+- i wanna party
+- i want a non dripping ice cream
+- i want caffe
+- i want food
+- i want good flycam
+- i want more of you in my life!
+- i want pizza
+- i want pizza!!
+- i want to book a hotel
+- i want to buy a roomba for my grandson
+- i want to eat
+- i want to find new friends
+- i want to find out what you can build with rasa
+- i want to fly
+- i want to grab lunch
+- i want to know current situtation in pakistan
+- i want to order a pizza
+- i want to see your happy customers
+- i will tame a mouse for you
+- is [John Lewis](name) still married to you
+- is it a wasteland full of broken robot parts?
+- is it allow to
+- is rasa a studio?
+- is rasa any good
+- is that any of your business
+- isn't the newsletter just spam?
+- it's a pity
+- i´m hungry
+- license
+- ljljl
+- lunch
+- lunch??
+- machine learning
+- mail me the steps
+- mascot means?
+- more
+- mountain
+- tell me the current time.
+- tell me the time it is.
+- tell me the time.
+- tell me what time you have.
+- that's true. do you know what time it is?
+- what is the current time?
+- what is the time ?
+- what is the time?
+- what is time in US ?
+- my name k
+- no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later
+- offer me lunch
+- oh my god, not again!
+- oh wait i gave you my work email address can i change it?
+- ok one then
+- on wiche nlp based system are you build?
+- only that?
+- order good
+- order pizza
+- personal or work?
+- pizza
+- please help with my ice cream it's dripping
+- please hjave lunchj
+- please hurry, i have deadline in two weeks to deliver the bot it is for very big company
+- please play music
+- rasa topics
+- really? you're so touchy?
+- refresh
+- region with no. of records
+- remember my name
+- search wikipedia
+- shitmuncher
+- show me a picture of a chicken
+- silly bot
+- sing me a song
+- so, I'm helping right now to training you?
+- some thing else
+- someone call the police i think the bot died
+- sorry, i cannot rephrase
+- sudo make me a sandwich
+- tell me about yourself
+- tell me more about next best action
+- that doesn't sound like a joke
+- that link doesn't work!
+- the one that is better than you
+- tricked  ya
+- turn off my stove
+- umm
+- wait a bit i am still reading
+- what about wheather
+- what are contextual AI assistants and how different are they from chatbots?
+- what are you doing now?
+- what are your uses for universities
+- what did you eat for lunch?
+- what do oyu think about siri?
+- what do you think abou siri?
+- what do you think about [Stanley Ramirez](name)?
+- what do you think of alexa
+- what does your soul feel my friend
+- what doing
+- what else?
+- what films do you like
+- what i do after cd starter-pack-rasa-stack?
+- what is a discourse?
+- what is a mascot
+- what is adlingo
+- what is differance between bot and mascot?
+- what is evolution ?
+- what is google rcs
+- what is machine learning
+- what is nice?
+- what is the capital of delhi
+- what is the capital of india
+- what is the current petrol price
+- what is the day ?
+- what is the real use case where we can use this one
+- what is your address?
+- what is your purpose
+- what lnu mean?
+- what the latest news ?
+- what you ate today?
+- what's 5 + 5
+- what's a newsletter?
+- what's gingerale
+- what's your wife doing this weekend
+- what?
+- whats that
+- whats the sign
+- when is the next train is coming?
+- where do i get install files for mac?
+- where is Oslo?
+- where is mexico?
+- wheres the party?
+- which city are you talking about?
+- which email
+- which email should i send to ?
+- which file is created first while developing chat bot
+- which is the LNU asynchronism ?
+- which kind
+- who are the engineers at rasa?
+- who are they?
+- how are u?
+- how are xou
+- how are you
+- how are you ?
+- how are you doing
+- how are you doing this morning
+- how are you doing today my sweet friend
+- how are you doing today?
+- how are you doing?
+- how are you feeling
+- how are you today
+- how are you'
+- how are you?
+- how are you????
+- how are yuo
+- how do you do?
+- how have you been
+- how is it going
+- how is your day
+- how is your day going
+- how is your evening
+- how r u
+- how r u ?
+- how r u>
+- who is [Sharon Zeches](name)
+- who is the MD of samsung bangalore ?
+- who is the president of india ?
+- who is your favourite robot?
+- who let the dog out
+- who was hitler
+- who will anser my email?
+- who's Bill Gates?
+- whta you think about gdpr?
+- why
+- why do you need that?
+- why its called rasa ?
+- will u kill me
+- will u kill me?
+- winter is already leaving
+- with you recommend me?
+- would you like some water
+- yeah, my dog was drinking a couple of litres of water per day and tried drinking the swimming pool
+- you already have that
+- you can learn how to make a coffe
+- you have children?
+- you have job opening
+- you lock sweety
+- you should learn to count
+- you will know it from the single red rose it carries between its teeth
+- you're a woman
+- ı am learning python
+- can you share your boss with me?
+- i want to get to know your owner
+- i want to know the company which designed you
+- i want to know the company which generated you
+- i want to know the company which invented you
+- i want to know who invented you
+- May I ask who invented you?
+- please tell me the company who created you
+- please tell me who created you
+- tell me more about your creators
+- tell me more about your founders
+- Ahoy matey how are you?
+- are you alright
+- are you having a good day
+- Are you ok?
+- are you okay
+- Do you feel good?
+- how are things going
+- how are things with you?
+- How are things?
+- how are you
+- how are you doing
+- how are you doing this morning
+- how are you feeling
+- how are you today
+- How are you?
+- How is the weather today?
+- What's the weather like?
+- How is the weather?
+- What is the weather at your place?
+- Do you have good weather?
+- Is it raining?
+- What's it like out there?
+- Is it hot or cold?
+- Beautiful day, isn't it?
+- What's the weather forecast?
+- Is it quite breezy outside?
+
+## intent:telljoke
+- Can you tell a joke?
+- Can you tell me a joke.
+- Come up with a joke you think I'll find funny.
+- Could you please share a joke with me.
+- Could you tell me a joke.
+- Do you have any jokes?
+- Do you know any jokes?
+- Entertain me with a joke.
+- Give me a funny joke.
+- Give me a joke.
+- Give me some comic relief.
+- I need a good joke.
+- I want to hear something funny.
+- Know any jokes?
+- Let's hear a joke from you.
+- Make me laugh.
+- Please tell me a joke.
+- Say something funny.
+- Share a joke with me!
+- Tell joke.
+- Tell me something funny.
+- Tell me something humorous!
+- Tell me something that you think will make me laugh.
+- Tell me the best joke you know.
+- What's a good joke?
+- Will you tell me a joke.
+- Would you share a joke with me.
+- Would you tell me a joke
+- give me a good joke
+- make me laugh with a bad joke
+- make me laugh with a joke
+- say a funny joke
+- say a joke
+- say a joke that's funny
+- say a joke that's so bad it's funny
+- tell me a joke
+- tell me a short joke
+- tell me a story joke
+- tell me something funny, like a joke
+- you can say a jok
+
+## intent:enter_phone_number
+- [8886871167](phone)
+- [9974263981](phone)
+- my phone number is [8432748653](phone)
+- call me on [6035621005](phone)
+- [9882315607](phone)
+- my cell phone is [6238813789](phone)
+- call me on [8421733222](phone)
+- [7888771852](phone)
+- my number is [8242673300](phone)
+- [7599627990](phone)
+- [9341761021](phone)
+- [6265801543](phone)
+- my cell phone is [7491175458](phone)
+- [7275482077](phone)
+- [9996465584](phone)
+- [8947884211](phone)
+- my cell phone is [6123963584](phone)
+- [8969419128](phone)
+- call me on [7196000441](phone)
+- [9427982854](phone)
+- my cell phone is [6533951179](phone)
+- my number is [6737295150](phone)
+- [8641966304](phone)
+- my cell phone is [9509012214](phone)
+- [7285716530](phone)
+- [8107430700](phone)
+- [8971863229](phone)
+- call me on [8894544819](phone)
+- [8357429785](phone)
+- [9147959862](phone)
+- [8116157566](phone)
+- [6749561537](phone)
+- [8991155140](phone)
+- [9211246116](phone)
+- [7513769876](phone)
+- [7713464931](phone)
+- [8539177210](phone)
+- [8782359293](phone)
+- [6277547465](phone)
+- [6209931935](phone)
+- [8593156286](phone)
+- [7492603455](phone)
+- [9032115907](phone)
+- [7497719580](phone)
+- [9962633243](phone)
+- [6202422375](phone)
+- [8105992876](phone)
+- [9533521189](phone)
+- [7790077696](phone)
+- [8796989363](phone)
+- [8560426252](phone)
+- [9777604526](phone)
+- [7696810737](phone)
+- [9024623313](phone)
+- [7743715160](phone)
+- [8480713286](phone)
+- [6306010656](phone)
+- [8192008087](phone)
+- [9532619353](phone)
+- [9056171451](phone)
+- [6221316874](phone)
+- [7904580326](phone)
+- [9894791069](phone)
+- [7149303033](phone)
+- [8862647336](phone)
+- [8886871137](phone)
+- [9885441005](phone)
+- [8019619875](phone)
+- [8945474595](phone)
+- [9849021164](phone)
+- [8881456735](phone)
+
+## intent:laugh
+- Hahaha
+- lol
+- haha
+- Haha
+- Lol
+- Rofl
+- Hahahaha
+- hahahaha
+- hahaha
+- lolol
+- lool
+- ha ha
+- Ha ha
+- Ha ha ha
