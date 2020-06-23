@@ -1,5 +1,11 @@
 FROM rasa/rasa:1.9.7
 
+WORKDIR /app
+COPY . /app
+COPY ./data /app/data
+
+RUN  rasa train
+
 VOLUME /app
 VOLUME /app/data
 VOLUME /app/models
