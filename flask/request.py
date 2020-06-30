@@ -16,7 +16,7 @@ def post():
 	print("JSON Data: {}".format(json1))
 	json.dumps(json1)
 	headers = {'Content-type': 'application/json', 'Accept': 'text/plain'}
-	r = requests.post("http://localhost:5005/webhooks/rest/webhook", json=json1,headers=headers) #geting the response and stored in r by using the data in json
+	r = requests.post("http://rasa_server:5005/webhooks/rest/webhook", json=json1,headers=headers) #geting the response and stored in r by using the data in json
 	return r.json()[0] 
 
 
