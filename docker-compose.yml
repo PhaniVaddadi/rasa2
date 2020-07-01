@@ -14,7 +14,3 @@ services:
         - ./actions:/app/actions
       ports:
         - "5055:5055"
-    web:
-      container_name: "flask"
-      build: 
-        context: flask
