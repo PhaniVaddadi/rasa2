@@ -15,9 +15,10 @@ services:
       ports:
         - "5055:5055"
     web:
-      restart: always
-      build: ./web
-      expose:
-        - "8000"
+      container_name: "flask_server"
+      build:
+        context: flask
       volumes:
-        - web-data:app/flask
+        - ./flask:/app/request
+      ports:
+        - "5000:5000"
