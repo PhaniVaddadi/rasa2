@@ -19,7 +19,5 @@ services:
       build: ./web
       expose:
         - "8000"
-     links:
-      - postgres:postgres
       volumes:
         - web-data:app/flask
