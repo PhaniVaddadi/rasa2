@@ -1,10 +1,10 @@
 FROM python:3.7
-ADD . /code
+#ADD . /code
 
 # Use subdirectory as working directory
 WORKDIR /app
 
 # Install extra requirements for actions code, if necessary (uncomment next line)
-RUN pip3 install -r requirements.txt
+#RUN pip3 install -r requirements.txt
 
 CMD [ "python", "request.py" ]
