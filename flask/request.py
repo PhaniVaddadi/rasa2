@@ -12,7 +12,7 @@ CORS(app)
 
 def post():
 	json1 = request.get_json() #it will take the request in json format and storing in json
-	# data = json.dumps(({"sender": "Rasa","message":"hi"}))
+
 	print("JSON Data: {}".format(json1))
 	json.dumps(json1)
 	headers = {'Content-type': 'application/json', 'Accept': 'text/plain'}
@@ -21,4 +21,4 @@ def post():
 
 
 if __name__ == '__main__':
-	app.run(debug=True) #adi endpoint adi nenu 
+	app.run(debug=True)
