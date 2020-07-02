@@ -14,3 +14,12 @@ services:
         - ./actions:/app/actions
       ports:
         - "5055:5055"
+    web:
+      restart: always
+      build: ./web
+      expose:
+        - "8000"
+     links:
+      - postgres:postgres
+      volumes:
+        - web-data:app/flask
