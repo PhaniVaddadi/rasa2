@@ -2,12 +2,16 @@ FROM python:3
 ADD . /request.py
 
 # Use subdirectory as working directory
-WORKDIR /app
+WORKDIR /request
 
 # Install extra requirements for actions code, if necessary (uncomment next line)
 RUN pip3 install flask
 RUN pip3 install flask_restful
 RUN pip3 install flask_cors
+RUN pip3 install requests
 
-USER 1001
-CMD [ "python", "request.py" ]
+COPY . /request
+
+ENTRYPOINT [ "python3" ]
+
+CMD ["request.py"]
