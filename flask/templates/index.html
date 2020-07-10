@@ -1,0 +1,23 @@
+<div id="webchat"/>
+<script src="https://storage.googleapis.com/mrbot-cdn/webchat-latest.js"></script>
+// Or you can replace latest with a specific version
+<script>
+  WebChat.default.init({
+    selector: "#webchat",
+    initPayload: "Hey!",
+    customData: {"language": "en"}, // arbitrary custom data. Stay minimal as this will be added to the socket
+    socketUrl: "http://localhost:5005/",
+    hideWhenNotConnected: false,
+    socketPath: "/socket.io/",
+    title: "DSW",
+    params: {
+      images: {
+        dims: {
+          width: 300,
+          height: 200,
+        }
+      },
+      storage: "session"    // <<< Try changing to "local"
+    }, 
+  })
+</script>
