@@ -37,7 +37,7 @@ function scrollToBottomOfResults() {
 function send(message) {
 	console.log("User Message:", message)
 	$.ajax({
-		url: 'http://localhost:5000',
+		url: 'http://13.82.22.109:5000',
 		type: 'POST',
 		contentType: 'application/json',
 		data: JSON.stringify({
